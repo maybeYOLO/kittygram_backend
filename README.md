@@ -49,3 +49,5 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+
+pip install django-cors-headers
